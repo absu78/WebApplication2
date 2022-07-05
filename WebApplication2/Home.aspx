@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1> This is a Home Home Page from Master Post Build with MS Build 2nd Edition</h1>
+            <h1> This is a Home Home Page from Master Post Build with MS 5th July</h1>
         </div>
     </form>
 </body>
